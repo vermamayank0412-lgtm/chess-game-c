@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void showMoveMessage() {
-    printf("Move validation logic will go here.\n");
+void movePiece() {
+    printf("Move logic coming next...\n");
 }
